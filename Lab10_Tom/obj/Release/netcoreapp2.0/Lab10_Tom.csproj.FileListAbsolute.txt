@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\bin\Release\netcoreapp2.0\Lab10_Tom.deps.json
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\bin\Release\netcoreapp2.0\Lab10_Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\bin\Release\netcoreapp2.0\Lab10_Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\bin\Release\netcoreapp2.0\Lab10_Tom.dll
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\bin\Release\netcoreapp2.0\Lab10_Tom.pdb
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\obj\Release\netcoreapp2.0\Lab10_Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\obj\Release\netcoreapp2.0\Lab10_Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\obj\Release\netcoreapp2.0\Lab10_Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\obj\Release\netcoreapp2.0\Lab10_Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\obj\Release\netcoreapp2.0\Lab10_Tom.dll
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\obj\Release\netcoreapp2.0\Lab10_Tom.pdb

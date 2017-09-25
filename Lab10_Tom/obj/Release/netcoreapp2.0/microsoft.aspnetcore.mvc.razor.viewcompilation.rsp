@@ -1,0 +1,12 @@
+C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Lab10_Tom
+--content-root=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\Home\About.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\Home\Contact.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\Home\Index.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\Shared\Error.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\Shared\_Layout.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\_ViewImports.cshtml
+--file=C:\Users\Tom\source\repos\Lab10-DepoymentToAzure\Lab10_Tom\Views\_ViewStart.cshtml
